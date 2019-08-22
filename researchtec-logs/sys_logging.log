@@ -1,0 +1,75 @@
+2019-08-21 16:56 [main] INFO  com.qiwan.researchtec.ResearchtecApplication- Starting ResearchtecApplication on USER-20160701NZ with PID 15504 (E:\workspace\researchtec\target\classes started by Administrator in E:\workspace\researchtec)
+2019-08-21 16:56 [main] INFO  com.qiwan.researchtec.ResearchtecApplication- The following profiles are active: local
+2019-08-21 16:56 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner- No MyBatis mapper was found in '[com.qiwan.researchtec]' package. Please check your configuration.
+2019-08-21 16:56 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-21 16:56 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-21 16:56 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Finished Spring Data repository scanning in 33ms. Found 0 repository interfaces.
+2019-08-21 16:56 [main] INFO  org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker- Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$40386111] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-21 16:56 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer- Tomcat initialized with port(s): 8083 (http)
+2019-08-21 16:56 [main] INFO  org.apache.catalina.core.StandardService- Starting service [Tomcat]
+2019-08-21 16:56 [main] INFO  org.apache.catalina.core.StandardEngine- Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-08-21 16:56 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]- Initializing Spring embedded WebApplicationContext
+2019-08-21 16:56 [main] INFO  org.springframework.web.context.ContextLoader- Root WebApplicationContext: initialization completed in 3748 ms
+2019-08-21 16:56 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Initializing ExecutorService
+2019-08-21 16:56 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-21 16:56 [main] WARN  org.thymeleaf.templatemode.TemplateMode- [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-21 16:56 [main] INFO  org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping- Adding welcome page template: index
+2019-08-21 16:56 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler- Initializing ExecutorService 'taskScheduler'
+2019-08-21 16:56 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer- Tomcat started on port(s): 8083 (http) with context path ''
+2019-08-21 16:56 [main] INFO  com.qiwan.researchtec.ResearchtecApplication- Started ResearchtecApplication in 5.895 seconds (JVM running for 6.436)
+2019-08-21 16:56 [http-nio-8083-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-21 16:56 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet- Initializing Servlet 'dispatcherServlet'
+2019-08-21 16:56 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet- Completed initialization in 28 ms
+2019-08-21 16:57 [main] INFO  com.qiwan.researchtec.ResearchtecApplication- Starting ResearchtecApplication on USER-20160701NZ with PID 15956 (E:\workspace\researchtec\target\classes started by Administrator in E:\workspace\researchtec)
+2019-08-21 16:57 [main] INFO  com.qiwan.researchtec.ResearchtecApplication- The following profiles are active: local
+2019-08-21 16:57 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner- No MyBatis mapper was found in '[com.qiwan.researchtec]' package. Please check your configuration.
+2019-08-21 16:57 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-21 16:57 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-21 16:57 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Finished Spring Data repository scanning in 21ms. Found 0 repository interfaces.
+2019-08-21 16:57 [main] INFO  org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker- Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$54842cf] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-21 16:57 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer- Tomcat initialized with port(s): 8083 (http)
+2019-08-21 16:57 [main] INFO  org.apache.catalina.core.StandardService- Starting service [Tomcat]
+2019-08-21 16:57 [main] INFO  org.apache.catalina.core.StandardEngine- Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-08-21 16:57 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]- Initializing Spring embedded WebApplicationContext
+2019-08-21 16:57 [main] INFO  org.springframework.web.context.ContextLoader- Root WebApplicationContext: initialization completed in 3510 ms
+2019-08-21 16:57 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Initializing ExecutorService
+2019-08-21 16:57 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-21 16:57 [main] WARN  org.thymeleaf.templatemode.TemplateMode- [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-21 16:57 [main] INFO  org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping- Adding welcome page template: index
+2019-08-21 16:57 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler- Initializing ExecutorService 'taskScheduler'
+2019-08-21 16:57 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer- Tomcat started on port(s): 8083 (http) with context path ''
+2019-08-21 16:57 [main] INFO  com.qiwan.researchtec.ResearchtecApplication- Started ResearchtecApplication in 5.812 seconds (JVM running for 6.384)
+2019-08-21 16:57 [http-nio-8083-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-21 16:57 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet- Initializing Servlet 'dispatcherServlet'
+2019-08-21 16:57 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet- Completed initialization in 12 ms
+2019-08-21 16:57 [http-nio-8083-exec-1] INFO  com.qiwan.researchtec.controller.IndexController- User：User(id=null, name=null, age=null)
+2019-08-21 16:58 [http-nio-8083-exec-4] INFO  com.qiwan.researchtec.controller.IndexController- User：User(id=null, name=null, age=null)
+2019-08-21 16:58 [http-nio-8083-exec-5] INFO  com.qiwan.researchtec.controller.IndexController- User：User(id=null, name=Qiwan, age=18)
+2019-08-21 16:59 [http-nio-8083-exec-8] INFO  com.qiwan.researchtec.controller.IndexController- User：User(id=null, name=Qiwan, age=18)
+2019-08-21 17:00 [http-nio-8083-exec-10] INFO  com.qiwan.researchtec.controller.IndexController- User：User(id=null, name=null, age=null)
+2019-08-21 17:00 [http-nio-8083-exec-1] INFO  com.qiwan.researchtec.controller.IndexController- User：User(id=null, name=null, age=null)
+2019-08-21 17:00 [http-nio-8083-exec-4] INFO  com.qiwan.researchtec.controller.IndexController- User：User(id=null, name=Qiwan, age=18)
+2019-08-21 17:00 [main] INFO  com.qiwan.researchtec.ResearchtecApplication- Starting ResearchtecApplication on USER-20160701NZ with PID 17524 (E:\workspace\researchtec\target\classes started by Administrator in E:\workspace\researchtec)
+2019-08-21 17:00 [main] INFO  com.qiwan.researchtec.ResearchtecApplication- The following profiles are active: local
+2019-08-21 17:00 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner- No MyBatis mapper was found in '[com.qiwan.researchtec]' package. Please check your configuration.
+2019-08-21 17:00 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-08-21 17:00 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-08-21 17:00 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate- Finished Spring Data repository scanning in 20ms. Found 0 repository interfaces.
+2019-08-21 17:00 [main] INFO  org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker- Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d6fc088c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-21 17:00 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer- Tomcat initialized with port(s): 8083 (http)
+2019-08-21 17:01 [main] INFO  org.apache.catalina.core.StandardService- Starting service [Tomcat]
+2019-08-21 17:01 [main] INFO  org.apache.catalina.core.StandardEngine- Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-08-21 17:01 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]- Initializing Spring embedded WebApplicationContext
+2019-08-21 17:01 [main] INFO  org.springframework.web.context.ContextLoader- Root WebApplicationContext: initialization completed in 3336 ms
+2019-08-21 17:01 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Initializing ExecutorService
+2019-08-21 17:01 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-21 17:01 [main] WARN  org.thymeleaf.templatemode.TemplateMode- [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-21 17:01 [main] INFO  org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping- Adding welcome page template: index
+2019-08-21 17:01 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler- Initializing ExecutorService 'taskScheduler'
+2019-08-21 17:01 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer- Tomcat started on port(s): 8083 (http) with context path ''
+2019-08-21 17:01 [main] INFO  com.qiwan.researchtec.ResearchtecApplication- Started ResearchtecApplication in 5.511 seconds (JVM running for 6.034)
+2019-08-21 17:01 [http-nio-8083-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-21 17:01 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet- Initializing Servlet 'dispatcherServlet'
+2019-08-21 17:01 [http-nio-8083-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet- Completed initialization in 16 ms
+2019-08-21 17:01 [http-nio-8083-exec-1] INFO  com.qiwan.researchtec.controller.IndexController- User：User(id=null, name=null, age=null)
+2019-08-21 17:01 [http-nio-8083-exec-10] INFO  com.qiwan.researchtec.controller.IndexController- User：User(id=null, name=Qiwan, age=18)

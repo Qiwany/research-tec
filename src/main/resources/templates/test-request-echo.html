@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>测试请求入参和回显</title>
+<style type="text/css">
+	.div {
+		width: 100%;
+		height: 50px;
+		text-align: center;
+		line-height: 50px;
+		margin-top: 50px;
+		color: red;
+		font-weight: bold;
+		font-size: 25px;
+	}
+</style>
+</head>
+
+<body>
+	<div class="div">打开测试页面！</div>
+	<form th:action="@{/testRequestEcho}" method="get">
+		姓名：<input name="name"/>
+		年龄：<input name="age"/>
+		<button type="submit">提交</button>
+	</form>
+	<br>
+	回显姓名（user.name）：<input th:value="${user.name}"/>
+	回显年龄（user.age）：<input th:value="${user.age}"/>
+	<br>
+	回显姓名（name）：<input th:value="${name}"/>
+	回显年龄（age）：<input th:value="${age}"/>
+</body>
+</html>
